@@ -26,3 +26,6 @@ workflows:
   say-hello-workflow:
     jobs:
       - say-hello
+  heroku_deploy:
+    jobs:
+      - heroku/deploy-via-git
