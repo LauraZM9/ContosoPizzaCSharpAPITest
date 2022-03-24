@@ -19,4 +19,6 @@ run `dotnet dev-certs https --trust`
 
 https://stackoverflow.com/questions/69278068/why-is-httprepl-unable-to-find-an-openapi-description-the-command-ls-does-not
 
-- ASP.NET CORE requires a buildpack for HEROK. We used the one from this tutorial: https://circleci.com/blog/deploy-dotnetcore-heroku/
+- ASP.NET CORE requires a buildpack for HEROKU. 
+
+We used the one from this tutorial: https://circleci.com/blog/deploy-dotnetcore-heroku/
