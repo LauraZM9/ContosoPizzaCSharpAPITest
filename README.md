@@ -9,8 +9,9 @@ https://docs.microsoft.com/en-us/learn/modules/build-web-api-aspnet-core/?WT.mc_
 # Troubleshooting
 - Error when running ls:
 
-"https://localhost:7120/> ls
-No directory structure has been set, so there is nothing to list. Use the "connect" command to set a directory structure based on an OpenAPI description."
+`https://localhost:7120/> ls`
+
+"No directory structure has been set, so there is nothing to list. Use the "connect" command to set a directory structure based on an OpenAPI description."
 
 Solution: 
 
